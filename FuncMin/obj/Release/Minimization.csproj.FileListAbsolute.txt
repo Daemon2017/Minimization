@@ -1,0 +1,9 @@
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\Minimization\FuncMin\bin\Release\Minimization.exe.config
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\Minimization\FuncMin\bin\Release\Minimization.exe
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\Minimization\FuncMin\bin\Release\Minimization.pdb
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\Minimization\FuncMin\obj\Release\Minimization.csprojResolveAssemblyReference.cache
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\Minimization\FuncMin\obj\Release\Minimization.Minimization.resources
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\Minimization\FuncMin\obj\Release\Minimization.Properties.Resources.resources
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\Minimization\FuncMin\obj\Release\Minimization.csproj.GenerateResource.Cache
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\Minimization\FuncMin\obj\Release\Minimization.exe
+C:\Users\Daemon\Documents\Visual Studio 2015\Projects\Minimization\FuncMin\obj\Release\Minimization.pdb
